@@ -641,7 +641,7 @@ form .submit-btn:hover {
     font-size: 13px;
   }
   header.sticky {
-  padding: 5px 14%;
+ 
   background: transparent;
   backdrop-filter: blur(25px);
 }

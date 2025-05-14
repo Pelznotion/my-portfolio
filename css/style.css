@@ -595,6 +595,16 @@ form .submit-btn:hover {
   }
 }
 @media (max-width: 800px) {
+  .home {
+  height: 100vh;
+  width: 100%;
+  background: black
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
   #menu-icon {
     display: block;
   }

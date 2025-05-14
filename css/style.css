@@ -593,12 +593,22 @@ form .submit-btn:hover {
     --h1-font: 4rem;
     --h2-font: 2.8rem;
   }
+   .home {
+  height: 100vh;
+  width: 100%;
+  background-color: black
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
 }
 @media (max-width: 800px) {
   .home {
   height: 100vh;
   width: 100%;
-  background: black
+  background-color: black
   background-size: cover;
   background-position: center;
   display: flex;
@@ -641,6 +651,16 @@ form .submit-btn:hover {
     --h1-font: 3.4rem;
     --h2-font: 2.5rem;
   }
+   .home {
+  height: 100vh;
+  width: 100%;
+  background-color: black
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
   .about-img img {
     text-align: center;
     width: 100%;

@@ -596,24 +596,14 @@ form .submit-btn:hover {
    .home {
   height: 100vh;
   width: 100%;
-  background-color: black
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
+  background-color:var(--bg-color); 
 }
 }
 @media (max-width: 800px) {
   .home {
   height: 100vh;
   width: 100%;
-  background-color: black
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
+  background-color: var(--bg-color);
 }
   #menu-icon {
     display: block;
@@ -654,12 +644,7 @@ form .submit-btn:hover {
    .home {
   height: 100vh;
   width: 100%;
-  background-color: black
-  background-size: cover;
-  background-position: center;
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
+  background-color: var(--bg-color);
 }
   .about-img img {
     text-align: center;
